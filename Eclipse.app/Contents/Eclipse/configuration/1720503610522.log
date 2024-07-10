@@ -1,0 +1,13 @@
+!SESSION 2024-07-09 14:40:10.441 -----------------------------------------------
+eclipse.buildId=4.30.0.20231201-1200
+java.version=17.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/santino/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/santino/.eclipse_keyring
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-09 14:40:11.641
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-09 14:40:11.805
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.

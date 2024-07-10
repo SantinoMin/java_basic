@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/santino/Desktop/KOSTA 수업 내용/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+4143829333.index
+1865797976.index
+3336678275.index
