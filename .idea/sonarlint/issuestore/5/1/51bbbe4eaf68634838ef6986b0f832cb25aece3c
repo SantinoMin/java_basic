@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡„‹Î8àÒ ‡Š2J$164e0e8a-3c51-4dc1-b122-3b0a4c10c77e
+Ê
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¼˜ÙŠ8áÒ ‡Š2J$9d095a11-f7da-46a2-82b6-7f48abf58731
+ƒ
+java:S1659"@Declare "max" and all following declarations on a separate line.(ŸöÎå8ãÒ ‡Š2J$3e2e2d36-8456-46fd-8e61-53b93f02b5b5
+r	java:S106!"+Replace this use of System.out by a logger.(Ø—½”ùÿÿÿÿ8åÒ ‡Š2J$33d6c839-8ff1-44fd-8c01-6088e3f481dc
+m	java:S106""+Replace this use of System.out by a logger.(‰… ®8åÒ ‡Š2J$f8fc3932-a351-40bb-b3cd-db41654d0c39
