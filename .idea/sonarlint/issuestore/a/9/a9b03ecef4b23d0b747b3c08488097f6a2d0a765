@@ -1,0 +1,23 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Üõì‚8¸ÓÕÕŠ2J$f72cf2f3-50a8-4556-aca5-eb225b55aa64
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô”ê™øÿÿÿÿJ$79012b21-16ac-4048-a525-4ef54f2dcecf
+…
+java:S2184 "BCast one of the operands of this division operation to a "double".(×Øÿ¨8Ú¢¡ÖŠ2J$695a7d7c-c7d5-41fc-95d5-549305c9eb63
+x
+java:S1854"5Remove this useless assignment to local variable "t".(œÅÒÉ8æíÕŠ2J$fa0f3e8c-5d51-490b-99e4-f10c83aa1464
+b
+java:S1659"Declare "m" on a separate line.(ûŒ“8ËàÕŠ2J$3d82bb2a-4c96-4cd9-8271-2ea54a8f47eb
+b
+java:S1659"Declare "b" on a separate line.(·¹ä°8ËàÕŠ2J$a39ba768-1af3-440c-9d81-036eec20bb4a
+g
+java:S1659"Declare "z" on a separate line.(õŞÛ‹ıÿÿÿÿ8æíÕŠ2J$d19803f0-af7a-48cd-a9f6-dca549026ec6
+m	java:S106
+"+Replace this use of System.out by a logger.(ÿş«Ä8õ‚ãÕŠ2J$aea2cd9c-3ec5-4cb5-a10d-9f970ac44563
+m	java:S106"+Replace this use of System.out by a logger.(˜Àşµ8õ‚ãÕŠ2J$fcf26a28-cc62-4703-8e34-c22bf1252917
+r	java:S106"+Replace this use of System.out by a logger.(¾ÿËÀıÿÿÿÿ8íÆéÕŠ2J$8de026cc-436a-435f-8d70-f41f54adfacd
+r	java:S106"+Replace this use of System.out by a logger.(“áï ùÿÿÿÿ8íÆéÕŠ2J$e2100a44-9746-4862-8386-ac7c72485d34
+r	java:S106"+Replace this use of System.out by a logger.(¢Î°²ÿÿÿÿÿ8çíÕŠ2J$f1f4a300-d2b0-4e0d-a3c2-0129b488e5ac
+m	java:S106"+Replace this use of System.out by a logger.(œÅÒÉ8çíÕŠ2J$0265e004-6ab9-4b10-9f8a-c8646880a265
+r	java:S106"+Replace this use of System.out by a logger.(œåÍŒøÿÿÿÿ8İ¢¡ÖŠ2J$fbebd6d4-9869-420a-ba03-298b149c915c
+m	java:S106"+Replace this use of System.out by a logger.(ÛÚ³8İ¢¡ÖŠ2J$739bb478-4fb9-4fc4-84a2-c1de712d1dcc
+r	java:S106!"+Replace this use of System.out by a logger.(«Ô‰¥ÿÿÿÿÿ8¦®ÖŠ2J$b62fa3b8-5a85-4d91-ac4f-042bad21d09e
