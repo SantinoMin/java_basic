@@ -1,22 +1,6 @@
 
-P
-java:S1121".Extract the assignment out of this expression.(Æ¨àëıÿÿÿÿ8µÄ•ğ‰2
-K
-java:S1121".Extract the assignment out of this expression.(ç££…8¶Ä•ğ‰2
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÀÁùÿÿÿÿ8¶Ä•ğ‰2
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ââ¢ù8¶Ä•ğ‰2
-G	java:S106
-"+Replace this use of System.out by a logger.(å¶©æ8ÓÄ•ğ‰2
-L	java:S106"+Replace this use of System.out by a logger.(®ÎÈÄúÿÿÿÿ8ÔÄ•ğ‰2
-L	java:S106"+Replace this use of System.out by a logger.(Æ¨àëıÿÿÿÿ8ÖÄ•ğ‰2
-G	java:S106"+Replace this use of System.out by a logger.(ç££…8ÖÄ•ğ‰2
-F	java:S106"+Replace this use of System.out by a logger.(èõ%8×Ä•ğ‰2
-G	java:S106"+Replace this use of System.out by a logger.(ÿÙ‘¥8×Ä•ğ‰2
-G	java:S106"+Replace this use of System.out by a logger.(‚Ë¢ 8×Ä•ğ‰2
-L	java:S106"+Replace this use of System.out by a logger.(÷üËİúÿÿÿÿ8ÙÄ•ğ‰2
-L	java:S106"+Replace this use of System.out by a logger.(æÎ¦ßıÿÿÿÿ8ÙÄ•ğ‰2
-G	java:S106"+Replace this use of System.out by a logger.(Œˆ¿ø8ÙÄ•ğ‰2
-G	java:S106"+Replace this use of System.out by a logger.(Áß‡Ü8ÚÄ•ğ‰2
-K
-java:S2183
-".Either use a "long" or correct this shift to 1(å¶©æ8ÜÄ•ğ‰2
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÏÀÁùÿÿÿÿ8©¨’ú‰2J$70ce67d0-8b3a-486f-a42d-d5f9bb7f485f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ââ¢ù8©¨’ú‰2J$f28edad5-ea33-4c2b-8cfb-1360ac31f5c5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ğˆ‹‘ıÿÿÿÿ8ª¨’ú‰2J$c4897254-1209-4c2b-a893-d29452bd26a5
+d
+java:S1116"Remove this empty statement.(ò™à¯şÿÿÿÿ8ª¨’ú‰2J$fe8f3553-1070-441a-bce1-f82317ca2c96

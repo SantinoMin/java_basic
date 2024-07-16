@@ -1,11 +1,11 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“˜ìY8Íö«Š2J$928de1f1-9791-4e46-b192-f39db092ccf9
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿı™ò8Íö«Š2J$e72be47d-dbe4-4ffa-abb9-a37e1f15c5b1
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“˜ìY8Íö«Š2J$95f8a2d8-7335-4e87-a8d2-d9133287d6e9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿı™ò8Íö«Š2J$08c9ff9a-dba3-4a1c-a70f-0025ca2ea99c
 z
-java:S1854"7Remove this useless assignment to local variable "cnt".(¹Ì—Â8Íö«Š2J$222e1c67-2b99-4577-b531-4c3c41a6d7b5
+java:S1854"7Remove this useless assignment to local variable "cnt".(¹Ì—Â8Íö«Š2J$51047bbf-b0be-4cf3-af11-13a4703fd834
 k
-java:S1481"(Remove this unused "cnt" local variable.(¹Ì—Â8 Íö«Š2J$5014ab01-ead3-4c01-99de-b99b1f275599
+java:S1481"(Remove this unused "cnt" local variable.(¹Ì—Â8 Íö«Š2J$b15504f4-cc19-4d67-ba89-4e7eef5d6519
 q
-java:S1940")Use the opposite operator ("!=") instead.(ƒÚÃúùÿÿÿÿ8®·ø«Š2J$1afb5c8e-3fa9-4929-ae5e-c00783bdc284
+java:S1940")Use the opposite operator ("!=") instead.(ƒÚÃúùÿÿÿÿ8®·ø«Š2J$6492d629-09ca-47ac-bf7a-2026f8a00aa6
 d
-java:S1116&"Remove this empty statement.(ôŸìúÿÿÿÿ8¡Íö«Š2J$fd9d5b5d-95e4-462c-a77e-516f0e09d43e
+java:S1116&"Remove this empty statement.(ôŸìúÿÿÿÿ8¡Íö«Š2J$3d70cd4d-1d6a-4ae6-bd37-d6a3384bfc4a

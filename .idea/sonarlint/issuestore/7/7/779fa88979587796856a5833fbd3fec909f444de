@@ -1,4 +1,17 @@
 
-7
-java:S1220""Move this file to a named package.8¼ùè‹2
-W	java:S125"<This block of commented-out lines of code should be removed.(ë§”T8½ùè‹2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øî»Í8ãËÕ‹2J$46d4d2c2-e79c-4e75-b56b-b73e762291a3
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$d068c90d-89fe-4433-82fc-27564d142838
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$8418082f-e59f-412b-bc87-e219b2b18101
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$f367af00-0c7e-407e-b5ba-90a3832efd8a
+ƒ	java:S125>"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$ebddcdd2-4240-4f15-bd79-697bc5ce2f8a
+ƒ	java:S125Z"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$c0f024ad-c7e3-4bcd-9b42-8cd86bf6040b
+ƒ	java:S125u"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$05ca5ef5-1e39-4379-a3cf-e51f4f6cc0ec
+~	java:S125 "<This block of commented-out lines of code should be removed.(éõ¹#8çËÕ‹2J$f1614884-ff77-46d8-b595-e66e35f0b6b5
+„	java:S125ª"<This block of commented-out lines of code should be removed.(½âÑûÿÿÿÿ8çËÕ‹2J$8df953af-e630-4ea1-8dc6-eb78c7ed86dd
+„	java:S125­"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8çËÕ‹2J$b749b168-2016-41ef-988c-f0e15de5fcfe
+~	java:S125Ã"<This block of commented-out lines of code should be removed.(Æ±ÛW8éôÎÕ‹2J$49ca4086-6979-4d6e-a031-2adfa52d0c61
+n	java:S106Ç"+Replace this use of System.out by a logger.(×•œ²8éËÕ‹2J$9540faa5-c9cb-42df-9274-6bbadfe63949
+s	java:S106Ê"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8éËÕ‹2J$b30b1193-6731-4259-843d-20e27fccbe65
+s	java:S106Ì"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8éËÕ‹2J$b86abaf5-e92e-4993-8074-96e4c6d3e90b
+e
+java:S1116Ï"Remove this empty statement.(ôŸìúÿÿÿÿ8éËÕ‹2J$5c44f90e-ab53-4312-92c4-6175d119bf15

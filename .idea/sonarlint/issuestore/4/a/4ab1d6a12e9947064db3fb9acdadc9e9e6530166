@@ -1,7 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8Üû‘¯‹2J$0babc24f-e04f-4b79-bd7e-443f43c614b5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8Üû‘¯‹2J$078f15b5-c232-47f7-9148-224e4da36186
 †
-java:S1226">Introduce a new variable instead of reusing the parameter "x".(—ù¶œûÿÿÿÿ8¼‘“¯‹2J$d5d2cbcd-35aa-4263-857e-1ff550823f69
-m	java:S106"+Replace this use of System.out by a logger.(ÁåôÚ8áû‘¯‹2J$1b8e5942-2dae-4cd7-8c63-6f15d0697596
-m	java:S106"+Replace this use of System.out by a logger.(ıƒá8¿‘“¯‹2J$0a89d9e6-9d08-40f7-8f1a-cbf0bd16725d
-X	java:S125"<This block of commented-out lines of code should be removed.(ıƒá8û”¨¯‹2
+java:S1226">Introduce a new variable instead of reusing the parameter "x".(—ù¶œûÿÿÿÿ8¼‘“¯‹2J$b3442a4c-b57f-414c-9848-0ae8e45ec9df
+}	java:S125"<This block of commented-out lines of code should be removed.(İã“8¬ş§Ö‹2J$61284056-95af-4e90-99ad-967f985ea579
+m	java:S106"+Replace this use of System.out by a logger.(ÁåôÚ8áû‘¯‹2J$a55a82cc-451f-481c-82ac-4a454c25432d
+r	java:S106"+Replace this use of System.out by a logger.(•úù˜ÿÿÿÿÿ8¿‘“¯‹2J$cddd3bb7-34c3-4e4d-b956-6c136b0df5f0
+m	java:S106"+Replace this use of System.out by a logger.(ñÃäâ8Îú‹Ö‹2J$88bb3ec1-5e18-4f9b-a5c1-93d112ad3ae8
+m	java:S106"+Replace this use of System.out by a logger.(ÕÒúƒ8Îú‹Ö‹2J$433d844d-b64d-46ef-8f81-73d405526b89
+~	java:S125"<This block of commented-out lines of code should be removed.(ÕÒúƒ8û”¨¯‹2J$0efffd74-b761-4026-82b2-10c8bbe075b0

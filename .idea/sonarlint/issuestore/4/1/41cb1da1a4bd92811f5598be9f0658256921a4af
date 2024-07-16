@@ -1,8 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿý™ò8Ë‘ï¦Š2J$decd74ea-e841-4b90-92ee-daac92a8c59f
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿý™ò8Ë‘ï¦Š2J$d9df7cf3-17d2-4f7d-8b14-4d5040815df6
 |
-java:S1854"9Remove this useless assignment to local variable "total".(“ò÷ƒ8Õòù¦Š2J$6aea9d61-e6b5-4bc0-ac0c-a9319bad5206
+java:S1854"9Remove this useless assignment to local variable "total".(“ò÷ƒ8Õòù¦Š2J$3033daf2-6bb1-4bfe-91a3-474e1051845a
 m
-java:S1481"*Remove this unused "total" local variable.(“ò÷ƒ8Öòù¦Š2J$f15ce01b-d41a-4618-a37e-b8c181e23062
+java:S1481"*Remove this unused "total" local variable.(“ò÷ƒ8Öòù¦Š2J$351bde84-b5bb-4cdc-a535-7e8a35ce900b
 k	java:S108
-")Either remove or fill this block of code.(š×‰Š8Öòù¦Š2J$495ca8b9-87ee-43e4-8386-9e07d3977567
+")Either remove or fill this block of code.(š×‰Š8Öòù¦Š2J$63872316-4881-42f0-a189-53b7e5fe6360

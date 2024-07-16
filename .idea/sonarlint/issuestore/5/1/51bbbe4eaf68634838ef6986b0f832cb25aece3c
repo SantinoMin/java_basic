@@ -1,8 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡„‹Î8àÒ ‡Š2J$164e0e8a-3c51-4dc1-b122-3b0a4c10c77e
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡„‹Î8àÒ ‡Š2J$513be221-1648-4935-94dc-69c8324806c3
 Ê
-java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¼˜ÙŠ8áÒ ‡Š2J$9d095a11-f7da-46a2-82b6-7f48abf58731
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¼˜ÙŠ8áÒ ‡Š2J$d396a3ca-c195-4197-8ba2-c5cbd3f70b16
 ƒ
-java:S1659"@Declare "max" and all following declarations on a separate line.(ŸöÎå8ãÒ ‡Š2J$3e2e2d36-8456-46fd-8e61-53b93f02b5b5
-r	java:S106!"+Replace this use of System.out by a logger.(Ø—½”ùÿÿÿÿ8åÒ ‡Š2J$33d6c839-8ff1-44fd-8c01-6088e3f481dc
-m	java:S106""+Replace this use of System.out by a logger.(‰… ®8åÒ ‡Š2J$f8fc3932-a351-40bb-b3cd-db41654d0c39
+java:S1659"@Declare "max" and all following declarations on a separate line.(ŸöÎå8ãÒ ‡Š2J$fb9e0092-7c66-4b99-a5b9-1e7a8491bebd
+r	java:S106!"+Replace this use of System.out by a logger.(Ø—½”ùÿÿÿÿ8åÒ ‡Š2J$ab642f84-bafb-4b81-b1f3-aceadad62911
+m	java:S106""+Replace this use of System.out by a logger.(‰… ®8åÒ ‡Š2J$da51c0c4-22d9-4460-8254-daed95fa2b58

@@ -1,10 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8½à¶ª‹2J$2210813c-21ed-4e44-b6c2-a0a27cf5c543
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8½à¶ª‹2J$ba658eec-c745-4699-8de8-0600007fdbd7
 Š
-java:S1172#"BRemove these unused method parameters "nameArg", "phone", "email".(¼Ô‡ªıÿÿÿÿ8Áà¶ª‹2J$95878b90-4f9a-405c-a9b3-9d69321dea07
-r	java:S106>"+Replace this use of System.out by a logger.(µªú–úÿÿÿÿ8Âà¶ª‹2J$5243c3b7-d4a7-4dd0-a07a-2916fc1d17ec
-m	java:S106?"+Replace this use of System.out by a logger.(Åá†æ8Âà¶ª‹2J$f92f0e55-8d7f-4fed-8c40-8715e1b8dc97
-m	java:S106@"+Replace this use of System.out by a logger.(¹ë²8Âà¶ª‹2J$feca48d4-80b0-4d2e-a11c-6ee1a92432bd
-m	java:S106A"+Replace this use of System.out by a logger.(íÑ©Š8Ãà¶ª‹2J$afa523da-f2f9-47f9-9dc1-a581d24aa13f
-r	java:S106C"+Replace this use of System.out by a logger.(¦¶Ë‰øÿÿÿÿ8Ãà¶ª‹2J$23fa443a-d0aa-4a50-a292-456f493265ae
-m	java:S106D"+Replace this use of System.out by a logger.(‰—ã†8Ãà¶ª‹2J$e86fece4-38d7-4377-b6fe-92182afa2093
+java:S1172#"BRemove these unused method parameters "nameArg", "phone", "email".(¼Ô‡ªıÿÿÿÿ8Áà¶ª‹2J$4c85d1c4-07a2-415e-a72c-6e49158a99d7
+r	java:S106>"+Replace this use of System.out by a logger.(µªú–úÿÿÿÿ8Âà¶ª‹2J$35ba80c7-5fec-46f7-8cac-dbd10dfdaa1a
+m	java:S106?"+Replace this use of System.out by a logger.(Åá†æ8Âà¶ª‹2J$fb74f753-e108-4020-be45-f8777ff201f3
+m	java:S106@"+Replace this use of System.out by a logger.(¹ë²8Âà¶ª‹2J$82e399c0-e42a-43bb-bdd7-e98123f6b9d8
+m	java:S106A"+Replace this use of System.out by a logger.(íÑ©Š8Ãà¶ª‹2J$c600a856-3987-4080-9526-139ff8033891
+r	java:S106C"+Replace this use of System.out by a logger.(¦¶Ë‰øÿÿÿÿ8Ãà¶ª‹2J$fae6b1ca-d19c-4662-8acb-3e26454874d3
+m	java:S106D"+Replace this use of System.out by a logger.(‰—ã†8Ãà¶ª‹2J$30386540-0a91-4385-bd66-f3abead41591

@@ -1,0 +1,20 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(ëËşùÿÿÿÿ8êàÓŠ2
+K
+java:S1121".Extract the assignment out of this expression.(ì›Œ8ëàÓŠ2
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óø†üÿÿÿÿ8ìàÓŠ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê—ğë8íàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(‚‰ÉÂùÿÿÿÿ8îàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ôÁ€¤úÿÿÿÿ8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ëËşùÿÿÿÿ8ñàÓŠ2
+G	java:S106"+Replace this use of System.out by a logger.(ì›Œ8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ŞµØóÿÿÿÿÿ8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ëË½¢ûÿÿÿÿ8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(ÜÖ¸ûÿÿÿÿÿ8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(“Çèœùÿÿÿÿ8ñàÓŠ2
+G	java:S106"+Replace this use of System.out by a logger.(ÙÖÔâ8ñàÓŠ2
+F	java:S106"+Replace this use of System.out by a logger.(Ÿø™B8ñàÓŠ2
+L	java:S106"+Replace this use of System.out by a logger.(÷Í«Ëüÿÿÿÿ8ñàÓŠ2
+P
+java:S2183".Either use a "long" or correct this shift to 1(‚‰ÉÂùÿÿÿÿ8òàÓŠ2

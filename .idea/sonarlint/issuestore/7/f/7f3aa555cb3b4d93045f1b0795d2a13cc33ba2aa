@@ -1,0 +1,13 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8ÖÎÓ¡‹2J$7032ee88-4dc8-49b2-89c5-af1bd3c821de
+d
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8×¹Ë¡‹2J$425cf5fe-c287-4fb1-a3b8-69deca7ffb1d
+d
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8×¹Ë¡‹2J$70ed133b-21f7-464c-ac8d-ffb23ef713a1
+m	java:S106'"+Replace this use of System.out by a logger.(Ÿõ’€8Ø¹Ë¡‹2J$fc3c77f0-1cfe-4e74-9105-cd1549fde2c8
+m	java:S106("+Replace this use of System.out by a logger.(©‘¨Ì8Ø¹Ë¡‹2J$ac8d4535-3e21-4da8-b8f2-60648f47b51e
+l	java:S106)"+Replace this use of System.out by a logger.(¡°®m8Ù¹Ë¡‹2J$ce56b295-2cce-44b9-bc20-ef1cb500e873
+m	java:S1060"+Replace this use of System.out by a logger.(Ÿõ’€8Ù¹Ë¡‹2J$e92541de-b496-40da-8dca-08bba05daa99
+m	java:S1061"+Replace this use of System.out by a logger.(©‘¨Ì8Ù¹Ë¡‹2J$61d1345c-80e7-4305-a608-6d16218964c1
+d
+java:S11164"Remove this empty statement.(ôŸŽìúÿÿÿÿ8Ù¹Ë¡‹2J$bc5f3c18-69f7-4bd8-ad6f-1338ef5535f0

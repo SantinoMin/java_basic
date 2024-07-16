@@ -1,16 +1,20 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°êú¸8“›Çò‰2J$adb2ff1a-a793-428f-a09a-143277088cca
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ââ¢ù8”›Çò‰2J$1ccd034e-4879-4f69-9dd1-f126259534dc
-~	java:S125"<This block of commented-out lines of code should be removed.(úæ °8•›Çò‰2J$f3711504-629b-424b-ae32-2711b20107c4
-~	java:S125"<This block of commented-out lines of code should be removed.(®—­¢8•›Çò‰2J$49dd4d13-333b-4f3a-be53-df36183b1e3c
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ö¦£”úÿÿÿÿ8–›Çò‰2J$1156273c-070e-46b2-b867-a44614ca492f
-~	java:S125"<This block of commented-out lines of code should be removed.(®—­¢8–›Çò‰2J$f5e42eae-0fbb-4b96-9a20-018db32cca4a
-~	java:S125 "<This block of commented-out lines of code should be removed.(éİĞ8–›Çò‰2J$f3c1a022-2c58-406f-ad75-5720a0865450
-ƒ	java:S125%"<This block of commented-out lines of code should be removed.(òïñøÿÿÿÿ8–›Çò‰2J$617f3404-eb8e-46e8-b018-14de6191fb3d
-ƒ	java:S125)"<This block of commented-out lines of code should be removed.(Áş‚şÿÿÿÿ8–›Çò‰2J$9841e17a-21ff-47f9-b3cb-c85278f15ee5
-~	java:S125/"<This block of commented-out lines of code should be removed.(¨ö²³8–›Çò‰2J$04a01d65-0f4a-4527-96ab-c290ee0f9664
-ƒ	java:S1255"<This block of commented-out lines of code should be removed.(øåô™úÿÿÿÿ8–›Çò‰2J$e2ab5254-3003-4017-baa4-a5c3b6bb92b6
-o
-java:S1481>",Remove this unused "powerOn" local variable.(’ĞÑª8–›Çò‰2J$8b3d0421-d021-4b43-84af-cd0fbe22a3e5
-d
-java:S1116G"Remove this empty statement.(Åñ­õşÿÿÿÿ8–›Çò‰2J$ca5b2945-b62d-407f-8ee9-cef6c0d3ab3e
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°êú¸8âï¹ş‰2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ââ¢ù8âï¹ş‰2
+X	java:S125"<This block of commented-out lines of code should be removed.(úæ °8äï¹ş‰2
+X	java:S125"<This block of commented-out lines of code should be removed.(®—­¢8äï¹ş‰2
+]	java:S125"<This block of commented-out lines of code should be removed.(Ö¦£”úÿÿÿÿ8äï¹ş‰2
+X	java:S125"<This block of commented-out lines of code should be removed.(®—­¢8äï¹ş‰2
+X	java:S125"<This block of commented-out lines of code should be removed.(éİĞ8äï¹ş‰2
+]	java:S125$"<This block of commented-out lines of code should be removed.(òïñøÿÿÿÿ8äï¹ş‰2
+]	java:S125("<This block of commented-out lines of code should be removed.(Áş‚şÿÿÿÿ8äï¹ş‰2
+X	java:S125."<This block of commented-out lines of code should be removed.(¨ö²³8äï¹ş‰2
+]	java:S1254"<This block of commented-out lines of code should be removed.(øåô™úÿÿÿÿ8äï¹ş‰2
+]	java:S125<"<This block of commented-out lines of code should be removed.(´éû‡ÿÿÿÿÿ8äï¹ş‰2
+L	java:S106>"+Replace this use of System.out by a logger.(¬¡¯•ùÿÿÿÿ8äï¹ş‰2
+L	java:S106C"+Replace this use of System.out by a logger.(–Ùšúøÿÿÿÿ8äï¹ş‰2
+>
+java:S1116F"Remove this empty statement.(Åñ­õşÿÿÿÿ8åï¹ş‰2
+]	java:S125G"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8åï¹ş‰2
+W	java:S125K"<This block of commented-out lines of code should be removed.(éõ¹#8åï¹ş‰2
+X	java:S125a"<This block of commented-out lines of code should be removed.(Œï¡8åï¹ş‰2
