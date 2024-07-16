@@ -1,0 +1,7 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8Üû‘¯‹2J$0babc24f-e04f-4b79-bd7e-443f43c614b5
+†
+java:S1226">Introduce a new variable instead of reusing the parameter "x".(—ù¶œûÿÿÿÿ8¼‘“¯‹2J$d5d2cbcd-35aa-4263-857e-1ff550823f69
+m	java:S106"+Replace this use of System.out by a logger.(ÁåôÚ8áû‘¯‹2J$1b8e5942-2dae-4cd7-8c63-6f15d0697596
+m	java:S106"+Replace this use of System.out by a logger.(ıƒá8¿‘“¯‹2J$0a89d9e6-9d08-40f7-8f1a-cbf0bd16725d
+X	java:S125"<This block of commented-out lines of code should be removed.(ıƒá8û”¨¯‹2

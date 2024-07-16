@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8¦‡Ë£‹2J$9ff1d83e-c3f4-48d7-b11f-3bc10cecf930
+X
+java:S2275"Not enough arguments.(œÅñ8¨‡Ë£‹2J$df914365-4d2c-4118-bb9e-a68633d80bab
+d
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ8¨‡Ë£‹2J$36e50d51-5b7c-44c9-a0d8-ecf0a9030a8b
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(•İ¬Äÿÿÿÿÿ8ëæÏ£‹2J$5fde427d-c532-4c7e-b97f-184b7b3348fd
+r	java:S106#"+Replace this use of System.out by a logger.(ªşŞçÿÿÿÿÿ8ÇÉÌ£‹2J$879600aa-1c74-4245-9dbf-9f6688657be9
+l	java:S106$"+Replace this use of System.out by a logger.(¾°ç/8„’Î£‹2J$99bbb438-b2ce-4b6b-9dfd-2d8ecec29fe4
+r	java:S106%"+Replace this use of System.out by a logger.(àä‚ÿÿÿÿÿ8„’Î£‹2J$e87ec0e5-5d9d-458d-85b2-2989fb69d7df
+>
+java:S1116'"Remove this empty statement.(ôŸìúÿÿÿÿ8¿¬Ö£‹2

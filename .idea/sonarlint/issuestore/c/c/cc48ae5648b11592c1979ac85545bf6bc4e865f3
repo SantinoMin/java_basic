@@ -1,0 +1,31 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8´Ð«£‹2J$53c250ae-31bc-4e5e-91a5-2d6dcae99146
+j
+java:S1481"'Remove this unused "lv" local variable.(†€¿Í8µÐ«£‹2J$03eba30d-5801-4d63-baeb-632f8fbd9429
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(¬ð“ˆøÿÿÿÿ8µÐ«£‹2J$c7ca3750-3bd5-4f85-99b7-e1eb4bfb6a32
+]	java:S125"<This block of commented-out lines of code should be removed.(ÿä¼›ÿÿÿÿÿ8…ÿÞ£‹2
+d
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8µÐ«£‹2J$b7b61146-1661-47cd-8e8d-08e8c04b9d5d
+m	java:S106"+Replace this use of System.out by a logger.(£‰êÉ8¶Ð«£‹2J$d417f835-231e-4deb-bcf1-a288086388d8
+r	java:S106"+Replace this use of System.out by a logger.(ÞÁò–ûÿÿÿÿ8¶Ð«£‹2J$5bc2b1d2-f139-48c9-95bf-51b3175a1e12
+m	java:S106"+Replace this use of System.out by a logger.(ŠéÐ©8·Ð«£‹2J$ec5ac5a6-1678-4703-a0e1-198cc78b748c
+x
+java:S2209"5Change this instance-reference to a static reference.(ŠéÐ©8·Ð«£‹2J$734b4d70-68cc-4045-aac9-7c300206f002
+r	java:S106 "+Replace this use of System.out by a logger.(Ë¸ÂŸþÿÿÿÿ8¸Ð«£‹2J$619ddfec-0d47-4032-9915-775f491792df
+}
+java:S2209 "5Change this instance-reference to a static reference.(Ë¸ÂŸþÿÿÿÿ8·Ð«£‹2J$eb0898cc-88af-49d7-8dcc-00f9baa289fe
+r	java:S106%"+Replace this use of System.out by a logger.(å‘Ø©üÿÿÿÿ8¸Ð«£‹2J$74384597-409f-4302-ad32-a0a9b8379ef8
+}
+java:S2209%"5Change this instance-reference to a static reference.(å‘Ø©üÿÿÿÿ8¸Ð«£‹2J$68270323-8431-4f19-850b-63fae016b4c8
+r	java:S106("+Replace this use of System.out by a logger.(Ë¸ÂŸþÿÿÿÿ8¸Ð«£‹2J$02999cf2-e3e9-4420-b9a5-ebc59b2f06fa
+}
+java:S2209("5Change this instance-reference to a static reference.(Ë¸ÂŸþÿÿÿÿ8¸Ð«£‹2J$dd11c6a9-d1e0-4ed2-be58-0fc8b6c35e0f
+r	java:S106)"+Replace this use of System.out by a logger.(å‘Ø©üÿÿÿÿ8¹Ð«£‹2J$db09b186-f250-4ba6-a6b4-608ae1623369
+}
+java:S2209)"5Change this instance-reference to a static reference.(å‘Ø©üÿÿÿÿ8¸Ð«£‹2J$fb5cd128-3446-48f9-a581-a602a98daaec
+}
+java:S2209+"5Change this instance-reference to a static reference.(É‚»Õûÿÿÿÿ8¸Ð«£‹2J$1a77997c-d918-42b3-b051-b4a5960d6939
+r	java:S106,"+Replace this use of System.out by a logger.(å‘Ø©üÿÿÿÿ8Ú—Þ£‹2J$963ebbc3-049b-4599-9ec8-5acdeb4dce8f
+}
+java:S2209,"5Change this instance-reference to a static reference.(å‘Ø©üÿÿÿÿ8¹Ð«£‹2J$8f01e952-b22c-4294-91fa-ffdd5607bfb6
