@@ -1,8 +1,8 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8ÂÅÊ¨‹2J$7ec8b537-f409-4bfb-8d56-4085b5495dea
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÎòÀÄ8ÂÅÊ¨‹2J$681bfbbf-0946-4e6c-bce3-1421e09be74b
 d
-java:S1116	"Remove this empty statement.(ôŸìúÿÿÿÿ8ÃÅÊ¨‹2J$c4d680b8-b036-4b83-a28b-8a31dec40cb1
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ˆ¸ìÿÿÿÿÿÿ8ÄÅÊ¨‹2J$f6da3c47-601d-4aa3-9f37-664c16490e33
-r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Ä¬Ë¨‹2J$2b30ed94-05df-48fa-8ea3-001995c63783
+java:S1116	"Remove this empty statement.(ôŸìúÿÿÿÿ8ÃÅÊ¨‹2J$9e928d58-e5e1-47b5-a4a6-e11457cdad18
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ˆ¸ìÿÿÿÿÿÿ8ÄÅÊ¨‹2J$98785616-48eb-4117-ad55-65a4dbd1c15b
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8Ä¬Ë¨‹2J$8d1e5ab2-63d4-4b54-a182-150b78ac14ec
 d
-java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ÄÅÊ¨‹2J$ade1a8ab-65a5-4776-a2ff-358ab8070843
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ÄÅÊ¨‹2J$f82b5302-47ba-4099-ab33-27ed57001e21

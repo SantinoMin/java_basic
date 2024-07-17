@@ -4012,3 +4012,7 @@ Q.idea/sonarlint/securityhotspotstore/0/e/0ec3fab596e85f274c8fd1e630411947815916
 Q.idea/sonarlint/securityhotspotstore/0/3/031e5fd704d0b700125e87c9453f98969c3dadf9,f/2/f207042672fae7925a75659e71524bce09f64af9
 Å
 Q.idea/sonarlint/securityhotspotstore/0/a/0a2922987510d68ea225f086f7a95c281498567d,d/b/dba18612f7755ed80ed726be86f0f39e0b89e3ce
+Q
+!Exam/src/chapter06/Factorial.java,7/0/7063b84e736deb920a951441e827cda62d47a259
+V
+&Exam/src/chapter06/InstanceMethod.java,0/a/0a74994bdee7faee171e51988b3ad4637f7c5b80
