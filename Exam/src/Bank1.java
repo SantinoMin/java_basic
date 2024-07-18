@@ -1,11 +1,9 @@
-//package Exam.src.acc;
+//package Exam.src;
 //
 //import Exam.src.BankProj.Account;
 //import java.util.Scanner;
 //
-////다른 패키지 클래스의 정보를 가져오려면, public을 설정 해주고,
-////getter, setter를 통해서 값을 가져온다.
-//public class Bank {
+//public class Bank1 {
 //
 //  Account[] accs = new Account[100];
 //  int cnt; //처음에는 0으로 초기화 됨.
@@ -28,13 +26,30 @@
 //  }
 //
 //  void makeAccount() {
-//    System.out.println("[계좌개설]");
+//    System.out.println("[일반계좌개설]");
 //    System.out.print("계좌번호:");
 //    String num = sc.nextLine();
 //    System.out.print("이름: ");
 //    String name = sc.nextLine();
 //    System.out.print("입금액: ");
 //    int money = Integer.parseInt(sc.nextLine());
+//
+//    //!!여기서 Integer.parseInt를 사용하는 이유는? --> sc.nextLine()은 콘솔에서 입력된 한 줄의 문자열을 반환함.
+//    //--> 그래서 Money 즉, 정수형인 금액으로 받아야 되기 때문에 Integer.parseInt 사용함.
+//
+////    Account[] accs = new Account[100]; // 여기에 할당 됨.
+//    accs[cnt++] = new Account(num, name, money);
+//  }
+//
+//  void makeSpecialAccount() {
+//    System.out.println("[특수계좌개설]");
+//    System.out.print("계좌번호:");
+//    String num = sc.nextLine();
+//    System.out.print("이름: ");
+//    String name = sc.nextLine();
+//    System.out.print("입금액: ");
+//    int money = Integer.parseInt(sc.nextLine());
+//    System.out.print("등급(VIP-V, Gold-G, Silver-S, Normal-N");
 //
 //    //!!여기서 Integer.parseInt를 사용하는 이유는? --> sc.nextLine()은 콘솔에서 입력된 한 줄의 문자열을 반환함.
 //    //--> 그래서 Money 즉, 정수형인 금액으로 받아야 되기 때문에 Integer.parseInt 사용함.
@@ -112,9 +127,8 @@
 //    }
 //  }
 //
-//
 //  public static void main(String[] args) {
-//    Bank bank = new Bank();
+//    Bank1 bank = new Bank1();
 //
 //    int sel;
 //
@@ -127,7 +141,7 @@
 //
 //      switch (sel) {
 //        case 1:
-//          bank.makeAccount();
+//          bank.makeAccount(); bank.makeSpecialAccount();
 //          break;
 //        case 2:
 //          bank.deposit();
@@ -145,4 +159,4 @@
 //    }
 //  }
 //}
-//
+//;

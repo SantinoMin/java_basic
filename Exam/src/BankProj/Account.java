@@ -38,7 +38,7 @@ public class Account {
     this.balance = money;
   }
 
-  void deposit(int money){
+  public void deposit(int money){
 //    this.balance = money; //이렇게 하는거 아님
     balance += money;
   };
@@ -48,7 +48,7 @@ public void withdraw(int money){
     balance -= money;
   }
 
-  String info(){
+  public String info(){
     //여기 아래 3줄은 안 써도 됨 (왜 그런지 이해하기)
 //    String accountNo = this.num;
 //    String name = this.name;
