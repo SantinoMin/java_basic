@@ -1,17 +1,4 @@
 
-ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÓªÕ8„êÀ’ã2J$46d4d2c2-e79c-4e75-b56b-b73e762291a3
-É	java:S125"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$d068c90d-89fe-4433-82fc-27564d142838
-É	java:S125"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$8418082f-e59f-412b-bc87-e219b2b18101
-É	java:S125)"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$f367af00-0c7e-407e-b5ba-90a3832efd8a
-É	java:S125>"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$ebddcdd2-4240-4f15-bd79-697bc5ce2f8a
-É	java:S125Z"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$c0f024ad-c7e3-4bcd-9b42-8cd86bf6040b
-É	java:S125u"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$05ca5ef5-1e39-4379-a3cf-e51f4f6cc0ec
-~	java:S125†"<This block of commented-out lines of code should be removed.(Èıπ#8ÁêÀ’ã2J$f1614884-ff77-46d8-b595-e66e35f0b6b5
-Ñ	java:S125™"<This block of commented-out lines of code should be removed.(Ω‚—è˚ˇˇˇˇ8ÁêÀ’ã2J$8df953af-e630-4ea1-8dc6-eb78c7ed86dd
-Ñ	java:S125≠"<This block of commented-out lines of code should be removed.(ˆØóÀ˙ˇˇˇˇ8ÁêÀ’ã2J$b749b168-2016-41ef-988c-f0e15de5fcfe
-~	java:S125√"<This block of commented-out lines of code should be removed.(∆±€W8ÈÙŒ’ã2J$49ca4086-6979-4d6e-a031-2adfa52d0c61
-n	java:S106«"+Replace this use of System.out by a logger.(◊ïú≤8ÈêÀ’ã2J$9540faa5-c9cb-42df-9274-6bbadfe63949
-s	java:S106 "+Replace this use of System.out by a logger.(ãµã∂˝ˇˇˇˇ8ÈêÀ’ã2J$b30b1193-6731-4259-843d-20e27fccbe65
-s	java:S106Ã"+Replace this use of System.out by a logger.(ﬁû“ó¸ˇˇˇˇ8ÈêÀ’ã2J$b86abaf5-e92e-4993-8074-96e4c6d3e90b
-e
-java:S1116œ"Remove this empty statement.(ÙüéÏ˙ˇˇˇˇ8ÈêÀ’ã2J$5c44f90e-ab53-4312-92c4-6175d119bf15
+]
+java:S1220""Move this file to a named package.8Ú›’Úå2J$eb63041b-7a94-4828-9982-c7762ff4de77
+}	java:S125"<This block of commented-out lines of code should be removed.(ÎßîT8Ù›’Úå2J$47f3191d-c076-4817-91a9-d9c36cca9438

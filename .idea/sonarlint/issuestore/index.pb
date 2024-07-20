@@ -4180,3 +4180,7 @@ T
 $Exam/src/StarcraftExam/StarExam.java,8/2/827004a828a25fe854c7e07ac21eff4a4809957e
 P
  Exam/src/StarcraftExam/Unit.java,5/f/5fd9fb6957000ec140fd7a7b105e15f6beff3c3b
+M
+Exam/src/baekjoon/PressN.java,9/e/9ece8f33c2cb31f301215ddebe6f8cd45effa146
+N
+Exam/src/baekjoon/BJ10950.java,1/6/160411a552ac70ecbef964f107d8cd4b98bd1c46
