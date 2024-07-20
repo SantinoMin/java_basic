@@ -1,5 +1,7 @@
 //package Exam.src.EmployeeProj;
 //
+//import Exam.src.interfaceTest.IBusinessTrip;
+//
 //public class Company {
 //
 //  Employee[] emps = new Employee[100];
@@ -65,6 +67,11 @@
 //        return ;
 //      }
 //      emp.salary = saraly;
+//  }
+//
+////interface 부분
+//  public void regBusinessTrip(IBusinessTrip emp, int day){
+//    emp.goBusInessTrip(day);
 //  }
 //
 //}

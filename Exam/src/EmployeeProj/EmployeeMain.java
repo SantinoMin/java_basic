@@ -2,44 +2,47 @@
 //
 //import Exam.src.EmployeeProj.Company.Department;
 //import Exam.src.EmployeeProj.Company.Employee;
+//import Exam.src.employeeProj1.Freelancer;
+//import Exam.src.employeeProj1.Sales;
 //
-////class Company{
-////    int num;
-////    String name;
-////    Department department;
-////    int salary;
-////
-//////  int num, String name, String department, int salary
-////String addEmployee(Employee employee){
-////
-////  return "";
-////};
+//class Company{
+//    int num;
+//    String name;
+//    Department department;
+//    int salary;
 //
-////  class Employee{
-////    int num;
-////    String name;
-////    Department department;
-////    int salary;
-////  };
+////  int num, String name, String department, int salary
+//String addEmployee(Employee employee){
 //
-////  Company(){
-////      Employee emp = new Employee();
-////      this.num = emp.num;
-////      this.name=emp.name;
-////
-////      Department dep = new Department();
-////      this.department=dep.department;
-////      this.salary=dep.salary;
+//  return "";
+//};
 //
-////  }
 //
-////static class Department{
-////    int departNum;
-////    String departName;
-////    int salary;
-////}
 //
-////};
+//  class Employee{
+//    int num;
+//    String name;
+//    Department department;
+//    int salary;
+//  };
+//
+//  Company(){
+//      Employee emp = new Employee();
+//      this.num = emp.num;
+//      this.name=emp.name;
+//
+//      Department dep = new Department();
+//      this.department=dep.department;
+//      this.salary=dep.salary;
+//
+//  }
+//
+//static class Department{
+//    int departNum;
+//    String departName;
+//    int salary;
+//}
+//};
 //
 //public class EmployeeMain {
 //
@@ -47,11 +50,23 @@
 //  public static void main(String[] args) {
 //
 //    Company com = new Company();
+//
+//    //interface
+//    Permanent emp1 = new Permanent(100,"홍길동",new Department(10,"홍보부"),100000);
+//    Sales emp2 = new Sales(101,"김길동", new Department(11,"인사과"),800000,500000);
+//    Freelancer emp3 = new Freelancer(102,"허길동", new Department(12,"개발부"),160, 10000);
+//
+//
 //    com.addEmployee(new Employee(100, "홍길동", new Department(10, "홍보부"), 1000000));
 //    com.addEmployee(new Employee(101, "김길동", new Department(11, "인사과"), 200000));
 //    com.addEmployee(new Employee(102, "허길동", new Department(12, "개발부"), 300000));
 ////    com.addEmployee(new Employee(103, "허길동", 13, "총무부", 400000));
 //    com.addEmployee(new Employee(104, "차길동", new Department(), 0));
+//
+////interface
+//    com.regBusinessTrip(emp1,2); // Error
+//    com.regBusinessTrip(emp2,3); // O
+//    com.regBusinessTrip(emp3,2); // O
 //
 //
 //    com.allEmployeeInfo();
