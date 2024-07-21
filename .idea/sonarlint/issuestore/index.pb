@@ -4182,3 +4182,11 @@ N
 Exam/src/baekjoon/BJ10950.java,1/6/160411a552ac70ecbef964f107d8cd4b98bd1c46
 N
 Exam/src/baekjoon/BJ10869.java,a/7/a720aaf72efaf355e046b859d3ade31b5499592b
+S
+#Exam/src/StarcraftExam1/Marine.java,9/c/9cd6d6627d998363ca00703d18969d740f7dc6e1
+Q
+!Exam/src/StarcraftExam1/Tank.java,6/b/6b2915e92c36283bc9718ef7c6f623dcffd56643
+U
+%Exam/src/StarcraftExam1/Dropship.java,b/2/b20b521216de698ee8f74ad7b2ee21666c13a3d9
+Q
+!Exam/src/StarcraftExam1/Unit.java,e/f/efbb60faa3f923e27a0080b6a5b92760f3b45a4c
