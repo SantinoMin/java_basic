@@ -4168,12 +4168,8 @@ N
 Exam/src/item/IRepairable.java,7/e/7eb5fc17d2ea8895f90c39595383b9b6f9943db7
 Q
 !Exam/src/item/InterfaceTest2.java,f/e/fe98f26df2ebe080d950841e7cd122fff6f6b30f
-I
-Exam/src/item/IClick.java,2/3/23b943140b5ffbb43cb46ed63b2f573d41a8e824
 F
 Exam/src/Exam7_22.java,8/f/8fa3e7f92e982affdaf4c69522a653be82dd7581
-S
-#Exam/src/chapter7/Exercise7_10.java,f/5/f52955c8590f0adef88f45354691f0f49fce786d
 L
 Exam/src/chapter7/MyTv2.java,0/c/0c0d943c6183e9fc42324250e89337717f7fee5d
 T
@@ -4184,3 +4180,5 @@ M
 Exam/src/baekjoon/PressN.java,9/e/9ece8f33c2cb31f301215ddebe6f8cd45effa146
 N
 Exam/src/baekjoon/BJ10950.java,1/6/160411a552ac70ecbef964f107d8cd4b98bd1c46
+N
+Exam/src/baekjoon/BJ10869.java,a/7/a720aaf72efaf355e046b859d3ade31b5499592b
