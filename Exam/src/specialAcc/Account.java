@@ -45,5 +45,10 @@ public class Account {
     balance += money;
   }
 
+  @Override
+  public String toString() {
+    return super.toString()+" "+AccNum+" "+name+" "+balance;
+  }
+
 
 }

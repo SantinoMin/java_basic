@@ -11,7 +11,7 @@ public class ExceptionTest6 {
     } catch (NullPointerException e) {
     } catch (ArithmeticException e) {
     } catch (NumberFormatException e) {
-    } catch (MyException e) {
+//    } catch (MyException e) {
 
     }
 
