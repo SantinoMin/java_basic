@@ -1,6 +1,6 @@
 package Exam.src;
 
-class Person implements Cloneable{
+class Person implements Cloneable, Comparable<Person>{
 
   int age;
   String name;
@@ -35,6 +35,11 @@ class Person implements Cloneable{
     } catch (CloneNotSupportedException e){
       return null;
     }
+  }
+
+  @Override
+  public int compareTo(Person o) {
+    return 0;
   }
 }
 

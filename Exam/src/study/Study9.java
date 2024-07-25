@@ -34,3 +34,6 @@ class B extends A {
     System.out.println("D");
   }
 }
+
+//예상 출력:
+// B C D // D

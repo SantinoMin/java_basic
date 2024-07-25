@@ -3,7 +3,7 @@ package Exam.src.study;
 class AA {
 
   //출력 결과:
-  private int a; // a=10
+  int a; // a=10
 
   public AA(int a) {
     this.a = a;
@@ -17,7 +17,7 @@ class AA {
 class BB extends AA {
 
   public BB(int a) {
-    super(a);
+    super(a); // a=10
     super.display();
   }
 }

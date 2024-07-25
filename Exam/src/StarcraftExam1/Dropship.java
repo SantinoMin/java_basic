@@ -12,6 +12,8 @@ interface Unload {
 
 public class Dropship extends Unit {
 
+  //타입이 정해져 있는 경우 int,String 매개변수를 가져올 수 있지만,
+  //
   Load load;
   Unload unload;
 
